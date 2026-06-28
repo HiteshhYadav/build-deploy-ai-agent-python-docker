@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+ENV_BACKUP/
+
+# Python Cache Directories
+.cache/
+
+# Python Test Coverage
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Python Distribution / Packaging
+dist/
+build/
+*.egg-info/
+develop-eggs/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE Settings
+.vscode/
+.idea/
+*.swp
+*~
+
+# Docker
+*.log
+
+# Environment Variables
+.env
+.env.*.local
+
+# Git
+.git/
+.gitignore
